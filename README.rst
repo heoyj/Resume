@@ -1,15 +1,5 @@
 .. -*- restructuredtext -*-
 
-Hire Me! 
-
-More than 2 years of data modeling, analysis and machine learning experiences with strong skills in Python, R, SQL and C++.
-
-[PDF resume here](https://github.com/heoyj/Resume/blob/master/YJH_resume.pdf)
-
-
-
-
-=======
 latex-moderncv is a repository containing my resume compiled in latex using a very nice modern theme
 
 Credits
